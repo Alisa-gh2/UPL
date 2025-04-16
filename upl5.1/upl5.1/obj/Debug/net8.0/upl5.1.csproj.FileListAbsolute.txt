@@ -1,0 +1,14 @@
+C:\Users\Влад\source\repos\upl5.1\upl5.1\bin\Debug\net8.0\upl5.1.exe
+C:\Users\Влад\source\repos\upl5.1\upl5.1\bin\Debug\net8.0\upl5.1.deps.json
+C:\Users\Влад\source\repos\upl5.1\upl5.1\bin\Debug\net8.0\upl5.1.runtimeconfig.json
+C:\Users\Влад\source\repos\upl5.1\upl5.1\bin\Debug\net8.0\upl5.1.dll
+C:\Users\Влад\source\repos\upl5.1\upl5.1\bin\Debug\net8.0\upl5.1.pdb
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\upl5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\upl5.1.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\upl5.1.AssemblyInfo.cs
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\upl5.1.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\upl5.1.dll
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\refint\upl5.1.dll
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\upl5.1.pdb
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\upl5.1.genruntimeconfig.cache
+C:\Users\Влад\source\repos\upl5.1\upl5.1\obj\Debug\net8.0\ref\upl5.1.dll

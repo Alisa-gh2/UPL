@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zoo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Animal xsi:type="Fish">
+    <Title>Карась</Title>
+    <Age>1</Age>
+    <WaterType>пресная</WaterType>
+  </Animal>
+  <Animal xsi:type="Dolphin">
+    <Title>Атлантический дельфин</Title>
+    <Age>10</Age>
+    <Habitat>океан</Habitat>
+    <Sound>щелчки</Sound>
+  </Animal>
+</Zoo>

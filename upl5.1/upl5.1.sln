@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upl5.1", "upl5.1\upl5.1.csproj", "{6482AF1F-66CD-4519-A576-8B39A48D35FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6482AF1F-66CD-4519-A576-8B39A48D35FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6482AF1F-66CD-4519-A576-8B39A48D35FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6482AF1F-66CD-4519-A576-8B39A48D35FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6482AF1F-66CD-4519-A576-8B39A48D35FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
