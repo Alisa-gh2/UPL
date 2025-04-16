@@ -1,0 +1,14 @@
+C:\Users\Влад\source\repos\ulp1\ulp1\bin\Debug\net8.0\ulp1.exe
+C:\Users\Влад\source\repos\ulp1\ulp1\bin\Debug\net8.0\ulp1.deps.json
+C:\Users\Влад\source\repos\ulp1\ulp1\bin\Debug\net8.0\ulp1.runtimeconfig.json
+C:\Users\Влад\source\repos\ulp1\ulp1\bin\Debug\net8.0\ulp1.dll
+C:\Users\Влад\source\repos\ulp1\ulp1\bin\Debug\net8.0\ulp1.pdb
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\ulp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\ulp1.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\ulp1.AssemblyInfo.cs
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\ulp1.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\ulp1.dll
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\refint\ulp1.dll
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\ulp1.pdb
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\ulp1.genruntimeconfig.cache
+C:\Users\Влад\source\repos\ulp1\ulp1\obj\Debug\net8.0\ref\ulp1.dll

@@ -1,0 +1,14 @@
+C:\Users\Влад\source\repos\upl2.2\upl2.2\bin\Debug\net8.0\upl2.2.exe
+C:\Users\Влад\source\repos\upl2.2\upl2.2\bin\Debug\net8.0\upl2.2.deps.json
+C:\Users\Влад\source\repos\upl2.2\upl2.2\bin\Debug\net8.0\upl2.2.runtimeconfig.json
+C:\Users\Влад\source\repos\upl2.2\upl2.2\bin\Debug\net8.0\upl2.2.dll
+C:\Users\Влад\source\repos\upl2.2\upl2.2\bin\Debug\net8.0\upl2.2.pdb
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\upl2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\upl2.2.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\upl2.2.AssemblyInfo.cs
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\upl2.2.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\upl2.2.dll
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\refint\upl2.2.dll
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\upl2.2.pdb
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\upl2.2.genruntimeconfig.cache
+C:\Users\Влад\source\repos\upl2.2\upl2.2\obj\Debug\net8.0\ref\upl2.2.dll
